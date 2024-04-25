@@ -8,7 +8,7 @@ Configurable Port Range: Allows scanning of specific port ranges based on user i
 ## Installation
 To use this port scanner, you need Python installed on your machine. Clone this repository to your local machine using the following command:
 ```ps 
-git clone [https://github.com/your-username/your-repository](https://github.com/pourjavadi/Port-Scanner.git)
+git clone (https://github.com/pourjavadi/Port-Scanner.git)
 ```
 Navigate to the directory where you cloned the repo:
 ```ps
