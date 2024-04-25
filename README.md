@@ -1,6 +1,7 @@
 # Port-Scanner
-port scanner
+## port scanner
 
+```ps 
 import socket
 
 def scan_ports(ip, start_port, end_port):
@@ -30,3 +31,4 @@ if open_ports:
         print(port)
 else:
     print("No open ports found.")
+```
